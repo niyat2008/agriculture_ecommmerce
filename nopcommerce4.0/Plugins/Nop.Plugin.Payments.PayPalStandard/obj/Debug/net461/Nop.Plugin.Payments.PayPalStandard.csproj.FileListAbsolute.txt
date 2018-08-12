@@ -1,0 +1,14 @@
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.dll
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.pdb

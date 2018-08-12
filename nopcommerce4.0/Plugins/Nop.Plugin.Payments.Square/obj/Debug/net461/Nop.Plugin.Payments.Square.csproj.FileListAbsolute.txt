@@ -1,0 +1,15 @@
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.dll
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.pdb

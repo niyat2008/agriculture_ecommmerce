@@ -1,0 +1,14 @@
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csproj.CopyComplete
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.dll
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.pdb

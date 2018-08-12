@@ -1,0 +1,13 @@
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\plugin.json
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\Configure.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\_ViewImports.cshtml
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+D:\george\nopcommerce4.0\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csprojAssemblyReference.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CoreCompileInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfoInputs.cache
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfo.cs
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CopyComplete
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.dll
+D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.pdb
