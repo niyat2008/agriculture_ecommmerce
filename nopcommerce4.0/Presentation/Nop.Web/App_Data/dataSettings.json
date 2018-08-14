@@ -1,5 +1,0 @@
-{
-  "DataProvider": "sqlserver",
-  "DataConnectionString": "Data Source=.\\sqlexpress;Initial Catalog=nop4;Integrated Security=True;Persist Security Info=False",
-  "RawDataSettings": {}
-}
