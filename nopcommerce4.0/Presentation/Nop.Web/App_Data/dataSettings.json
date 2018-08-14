@@ -1,5 +1,5 @@
 {
   "DataProvider": "sqlserver",
-  "DataConnectionString": "Data Source=SG5;Initial Catalog=nop4;Integrated Security=True;Persist Security Info=False",
+  "DataConnectionString": "Data Source=jhjhjhj;Initial Catalog=nop4;Integrated Security=True;Persist Security Info=False",
   "RawDataSettings": {}
 }
