@@ -10,3 +10,16 @@ D:\george\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debu
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.dll
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csprojAssemblyReference.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.dll
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\net461\Nop.Plugin.DiscountRules.CustomerRoles.pdb

@@ -12,3 +12,17 @@ D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\ne
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.dll
 D:\george\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\Business analysis\Source\Repos\agriculture_ecommmerce\nopcommerce4.0\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.pdb
