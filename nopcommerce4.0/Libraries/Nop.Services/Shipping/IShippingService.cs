@@ -95,8 +95,8 @@ namespace Nop.Services.Shipping
         /// Gets all warehouses
         /// </summary>
         /// <returns>Warehouses</returns>
+        IList<Warehouse> GetAllWarehouses(int vendorId);
         IList<Warehouse> GetAllWarehouses();
-
         /// <summary>
         /// Inserts a warehouse
         /// </summary>

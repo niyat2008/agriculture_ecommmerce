@@ -1,3 +1,5 @@
+using Nop.Core.Domain.Vendors;
+
 namespace Nop.Core.Domain.Shipping
 {
     /// <summary>
@@ -19,5 +21,9 @@ namespace Nop.Core.Domain.Shipping
         /// Gets or sets the address identifier of the warehouse
         /// </summary>
         public int AddressId { get; set; }
+
+        public int VendorId { get; set; }
+
+        public Vendor Vendor { get; set; }
     }
 }

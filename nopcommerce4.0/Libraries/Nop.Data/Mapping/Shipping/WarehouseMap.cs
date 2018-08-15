@@ -15,6 +15,11 @@ namespace Nop.Data.Mapping.Shipping
             this.ToTable("Warehouse");
             this.HasKey(wh => wh.Id);
             this.Property(wh => wh.Name).IsRequired().HasMaxLength(400);
+
+            this.HasRequired(vn => vn.Vendor)
+             .WithMany(v => v.WareHouses)
+             .HasForeignKey(vn => vn.VendorId);
+
         }
     }
 }

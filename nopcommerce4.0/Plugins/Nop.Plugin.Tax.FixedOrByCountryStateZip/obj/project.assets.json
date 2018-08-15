@@ -7934,23 +7934,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t\\.nuget\\packages\\": {},
+    "C:\\Users\\Business analysis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.14.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
+      "projectUniqueName": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
       "projectName": "Nop.Plugin.Tax.FixedOrByCountryStateZip",
-      "projectPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
-      "packagesPath": "C:\\Users\\t\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\obj\\",
+      "projectPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
+      "packagesPath": "C:\\Users\\Business analysis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Business analysis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7963,8 +7963,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

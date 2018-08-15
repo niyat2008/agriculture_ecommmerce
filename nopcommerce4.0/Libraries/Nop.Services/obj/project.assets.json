@@ -7787,23 +7787,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t\\.nuget\\packages\\": {},
+    "C:\\Users\\Business analysis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "4.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\Nop.Services.csproj",
       "projectName": "Nop.Services",
-      "projectPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\Nop.Services.csproj",
-      "packagesPath": "C:\\Users\\t\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\obj\\",
+      "projectPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "packagesPath": "C:\\Users\\Business analysis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Business analysis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7816,11 +7816,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-              "projectPath": "C:\\Users\\t\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "C:\\Users\\Business analysis\\Source\\Repos\\agriculture_ecommmerce\\nopcommerce4.0\\Libraries\\Nop.Data\\Nop.Data.csproj"
             }
           }
         }

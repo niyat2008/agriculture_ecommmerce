@@ -332,14 +332,41 @@ namespace Nop.Services.Shipping
         /// Gets all warehouses
         /// </summary>
         /// <returns>Warehouses</returns>
-        public virtual IList<Warehouse> GetAllWarehouses()
+        public virtual IList<Warehouse> GetAllWarehouses(int vendorId)
         {
+            //var query = from wh in _warehouseRepository.Table
+            //            orderby wh.Name
+            //            select wh;
+            //var warehouses = query.ToList();
+            //return warehouses;
+
+
             var query = from wh in _warehouseRepository.Table
+                        where wh.VendorId==vendorId
                         orderby wh.Name
                         select wh;
             var warehouses = query.ToList();
             return warehouses;
         }
+
+        public virtual IList<Warehouse> GetAllWarehouses()
+        {
+            //var query = from wh in _warehouseRepository.Table
+            //            orderby wh.Name
+            //            select wh;
+            //var warehouses = query.ToList();
+            //return warehouses;
+
+
+            var query = from wh in _warehouseRepository.Table
+                        
+                        orderby wh.Name
+                        select wh;
+            var warehouses = query.ToList();
+            return warehouses;
+        }
+
+
 
         /// <summary>
         /// Inserts a warehouse
