@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Nop.Core.Domain.Localization;
 using Nop.Core.Domain.Seo;
+using Nop.Core.Domain.Shipping;
 
 namespace Nop.Core.Domain.Vendors
 {
@@ -10,6 +11,9 @@ namespace Nop.Core.Domain.Vendors
     public partial class Vendor : BaseEntity, ILocalizedEntity, ISlugSupported
     {
         private ICollection<VendorNote> _vendorNotes;
+
+        private ICollection<Warehouse> _wareHouses;
+
 
         /// <summary>
         /// Gets or sets the name
@@ -93,6 +97,12 @@ namespace Nop.Core.Domain.Vendors
         {
             get { return _vendorNotes ?? (_vendorNotes = new List<VendorNote>()); }
             protected set { _vendorNotes = value; }
+        }
+
+        public virtual ICollection<Warehouse> WareHouses
+        {
+            get { return _wareHouses ?? (_wareHouses = new List<Warehouse>()); }
+            protected set { _wareHouses = value; }
         }
     }
 }
